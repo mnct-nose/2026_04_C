@@ -13,5 +13,8 @@
     background-position: 100% 50%;
   }
 }
+.font_test {
+    font-family:cursive;
+}
 a:link {color:rgb(88, 166, 235);}
 a:visited{color:blueviolet;}
