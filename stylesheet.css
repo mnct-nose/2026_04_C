@@ -1,2 +1,5 @@
-a:link {color:aliceblue;}
+body{
+    backgroud-color: #ffffff;
+}
+a:link {color:rgb(88, 166, 235);}
 a:visited{color:blueviolet;}
